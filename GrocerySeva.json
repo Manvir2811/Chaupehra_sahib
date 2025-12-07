@@ -1,0 +1,34 @@
+﻿
+[
+  {
+    "title": "Carrot",
+    "category": "Vegetables",
+      "IsAvailable": true
+  },
+  {
+    "title": "Potato",
+    "category": "Vegetables",
+    "IsAvailable": true
+  },
+  {
+    "title": "Onion",
+    "category": "Vegetables",
+    "IsAvailable": false
+  },
+
+  {
+    "title": "Apple",
+    "category": "Fruits",
+    "IsAvailable": true
+  },
+  {
+    "title": "Banana",
+    "category": "Fruits",
+    "IsAvailable": false
+  },
+  {
+    "title": "Mango",
+    "category": "Fruits",
+    "IsAvailable": true
+  }
+]
