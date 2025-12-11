@@ -1,7 +1,8 @@
 ﻿[
   {
-    "Date": "2025-07-05",
-    "Events": [ "Music Night", "Food Festival" ]
+    "Date": "2025-12-12",
+    "Events": [ "Chaupehra Sahib and Langer Seva at 5 PM",
+      "Another program" ]
   },
   {
     "Date": "2025-07-10",
@@ -11,4 +12,5 @@
     "Date": "2025-07-15",
     "Events": [ "Sports Day", "Dance Competition" ]
   }
+
 ]
